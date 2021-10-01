@@ -1,4 +1,4 @@
-title: Dark Reader
+title: Adrenogenesis
 markdown: kramdown
 url: "https://mystifying-hodgkin-9b92a6.netlify.app"
 baseurl: ""
@@ -6,8 +6,8 @@ baseurl: ""
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Kristen Jitter
+  email: expsylontools@gmail.com
 
 plugins:
   - jekyll-paginate
