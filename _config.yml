@@ -1,7 +1,7 @@
 title: Dark Reader
 markdown: kramdown
 url: "https://mystifying-hodgkin-9b92a6.netlify.app"
-baseurl: "/"
+baseurl: "/jekyll-theme-dark-reader"
 #host: 0.0.0.0
 
 # for atom feed
