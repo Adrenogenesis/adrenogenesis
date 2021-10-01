@@ -1,9 +1,9 @@
 ---
-title: Sharad Raj
+title: Adrenogenesis
 layout: about
-profile_pic: "https://avatars2.githubusercontent.com/u/36638057?s=460&u=0cbe4fd6b5a3655d91b3eb86db834d0829a0c086&v=4"
+profile_pic: "https://cryptoast.fr/wp-content/uploads/2017/11/komodo-kmd-logo.png"
 profile_pic_alt: ""
-short_bio: Hi there this is Sharad, the developer of this theme.
+short_bio: Another dimension
 ---
 
 This is long bio.
