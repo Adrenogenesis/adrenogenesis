@@ -2,7 +2,7 @@
 layout: post
 title: Blockchain
 date: 2021-10-01
-tag: Jekyll
+tag: blockchain
 author: Kristen Jitter
 categories: ["Jekyll"]
 image: "a.png"
